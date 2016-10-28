@@ -1,0 +1,47 @@
+{
+  "name": "GulpCodingBestPractice",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.coding.net:rickytan/GulpCodingBestPractice.git"
+  },
+  "author": "Ricky Tan",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer-core": "*",
+    "browser-sync": "*",
+    "core-util-is": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-bower": "*",
+    "gulp-cache": "*",
+    "gulp-csso": "*",
+    "gulp-filter": "*",
+    "gulp-flatten": "*",
+    "gulp-if": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-less": "*",
+    "gulp-load-plugins": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-postcss": "*",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "gulp-usemin": "*",
+    "gulp-usemin2": "*",
+    "gulp-useref": "*",
+    "inherits": "*",
+    "isarray": "*",
+    "jshint": "*",
+    "jshint-stylish": "*",
+    "main-bower-files": "*",
+    "postcss": "*",
+    "wrapper": "*"
+  }
+}
